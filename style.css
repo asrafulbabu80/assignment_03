@@ -119,3 +119,43 @@ nav a:hover{
     width: 90%;
     margin-left: 70px;
 }
+
+
+
+
+#final_sectionp2{
+    width: 1170px;
+    padding:60px 0px;
+}
+#final_sectionp2 img{
+    width: 100%;
+    margin: 0px 50px;
+}
+.logo{
+    width: 600px;
+    margin: auto;
+}
+.icons{
+    width: 700px;
+    margin: 5px 50%;
+    display: flex;
+ 
+}
+.icons a{
+    width: 50px;
+    height: 50px;
+    background: #95a5a6;
+    border-radius: 50px;
+    margin-right: 5px;
+    line-height: 45px;
+    box-shadow: 1px 2px 3px 0px #ecf0f1;
+    
+}
+.icons i{
+    margin-left: 18px;
+    transition: all 0.3s;
+    color: #8e44ad;
+}
+.icons a:hover i{
+    transform: scale(1.5);
+}
